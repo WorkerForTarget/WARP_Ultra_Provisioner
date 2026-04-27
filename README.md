@@ -77,8 +77,6 @@ python main.py
 ## 📂 Что внутри конфига?
 Каждый сгенерированный файл — это полноценный WireGuard-конфиг для подключения к Cloudflare WARP:
 
-ini
-
 ### [Interface]
 
 PrivateKey = <уникальный ключ>
